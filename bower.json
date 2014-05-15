@@ -1,0 +1,30 @@
+{
+  "name": "keyboard",
+  "version": "1.0.0",
+  "homepage": "https://github.com/SonoIo/device",
+  "authors": [
+    "Matteo Baggio"
+  ],
+  "description": "Cross device utils for browser",
+  "main": "lib/device.js",
+  "keywords": [
+    "Backbone",
+    "jQuery",
+    "Underscore",
+    "Device",
+    "Browser"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "underscore": "~1.6.0",
+    "backbone": "~1.1.2"
+  }
+}
