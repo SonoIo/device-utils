@@ -8,3 +8,9 @@ Cross device utility for browser
 ```
   bower install device-utils --save
 ```
+
+## Changelog
+
+### 1.0.1
+
+- New support to fullscreen mode. Device adds class `fullScreen` to the `html` tag. In addition it adds browser specific class like `mozFullScreen`, `webkitFullScreen`, `msfullscreenchange`.
