@@ -1,9 +1,10 @@
 {
   "name": "device-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/SonoIo/device",
   "authors": [
-    "Matteo Baggio"
+    "Matteo Baggio",
+    "Michele Belluco"
   ],
   "description": "Cross device utils for browser",
   "main": "lib/device.js",
