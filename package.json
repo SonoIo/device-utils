@@ -1,0 +1,35 @@
+{
+  "name": "device-utils",
+  "version": "1.0.15",
+  "description": "Cross device utils for browser",
+  "main": "lib/device.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonoIo/device-utils.git"
+  },
+  "keywords": [
+    "backbone",
+    "pubsub"
+  ],
+  "contributors": [
+    { "name" : "Matteo Baggio", 
+      "email" : "matteo.baggio@gmail.com"
+    },
+    { "name" : "Michele Belluco", 
+      "email" : "michele@belluco.info"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SonoIo/device-utils/issues"
+  },
+  "homepage": "https://github.com/SonoIo/device-utils#readme",
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "underscore": "~1.8.3",
+    "backbone": "^1.2.3"
+  }
+}
