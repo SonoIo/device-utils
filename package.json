@@ -1,6 +1,6 @@
 {
   "name": "device-utils",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "Cross device utils for browser",
   "main": "lib/device.js",
   "scripts": {
@@ -15,10 +15,10 @@
     "pubsub"
   ],
   "contributors": [
-    { "name" : "Matteo Baggio", 
+    { "name" : "Matteo Baggio",
       "email" : "matteo.baggio@gmail.com"
     },
-    { "name" : "Michele Belluco", 
+    { "name" : "Michele Belluco",
       "email" : "michele@belluco.info"
     }
   ],
