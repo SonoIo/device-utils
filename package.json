@@ -1,6 +1,6 @@
 {
   "name": "device-utils",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "Cross device utils for browser",
   "main": "lib/device.js",
   "scripts": {
@@ -28,8 +28,8 @@
   },
   "homepage": "https://github.com/SonoIo/device-utils#readme",
   "dependencies": {
-    "jquery": "~2.1.1",
-    "underscore": "~1.8.3",
-    "backbone": "^1.2.3"
+	  "jquery": "~3.2.1",
+      "underscore": "~1.8.3",
+      "backbone": "~1.3.3"
   }
 }
