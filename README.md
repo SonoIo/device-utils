@@ -11,6 +11,11 @@ Cross device utility for browser
 
 ## Changelog
 
+### 1.0.20
+
+- Add a new method "isIos"
+- Add a new method "isIphoneX"
+
 ### 1.0.19
 
 - Add a new method "isTouchDevice"
