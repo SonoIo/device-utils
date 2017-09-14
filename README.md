@@ -11,6 +11,9 @@ Cross device utility for browser
 
 ## Changelog
 
+### 1.0.21
+- Added the "iphone-x" class if it is an iPhone X
+
 ### 1.0.20
 
 - Add a new method "isIos"
