@@ -1,6 +1,6 @@
 {
   "name": "device-utils",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "description": "Cross device utils for browser",
   "main": "lib/device.js",
   "scripts": {

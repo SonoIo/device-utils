@@ -11,6 +11,9 @@ Cross device utility for browser
 
 ## Changelog
 
+### 1.0.24
+- Added the parent class iphone-x for models iPhone XS, XR, XS Max
+
 ### 1.0.23
 - Bugfix for detect iPhone XS, XR, XS Max
 
