@@ -11,6 +11,12 @@ Cross device utility for browser
 
 ## Changelog
 
+### 1.0.22
+- Added the "iphone-xs" class if it is an iPhone XS
+- Added the "iphone-xs-max" class if it is an iPhone XS Max
+- Added the "iphone-xr" class if it is an iPhone XR
+- Added method for check device is high performance
+
 ### 1.0.21
 - Added the "iphone-x" class if it is an iPhone X
 
