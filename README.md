@@ -11,6 +11,9 @@ Cross device utility for browser
 
 ## Changelog
 
+### 1.0.28
+- Standalone detect improved
+
 ### 1.0.27
 
 This version is required in order to properly recognize iPads with the new cordova platform ad iOS >= 13.
@@ -23,7 +26,7 @@ This version is required in order to properly recognize iPads with the new cordo
 
 ### 1.0.25
 
-- Added new method to identify iPhones with a notch `isIphoneWithNotch` with one single method. 
+- Added new method to identify iPhones with a notch `isIphoneWithNotch` with one single method.
 
 ### 1.0.24
 
