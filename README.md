@@ -11,6 +11,9 @@ Cross device utility for browser
 
 ## Changelog
 
+### 1.0.29
+- Added the parent class iphone-x for models iPhone 12, 12 Pro, 12 Pro Max
+
 ### 1.0.28
 - Standalone detect improved
 
